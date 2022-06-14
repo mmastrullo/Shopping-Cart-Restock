@@ -1,5 +1,5 @@
 # Shopping-Cart-Restock
-<img src= "cabbage.png" width='300'>
+<img src= "cabbage.png" width='200'>
 
 ## Description: 
 This code pulls grocery stock items from strapi and adds them to a cart. The cart shows the total price. Restock returns items from the cart.
